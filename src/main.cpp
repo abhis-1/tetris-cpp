@@ -1,4 +1,6 @@
 /*
+    Name: Abhishek Pandey
+    Date: 20/04/2024
     Steps to develop tetris
         1. Set up the game loop
         2. Creating the grid
@@ -13,7 +15,6 @@
         11. Add Next Block
         12. Add Sounds
 */
-
 #include <raylib.h>
 #include "game.h"
 #include "colors.h"
